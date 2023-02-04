@@ -1,2 +1,2 @@
-# plat_man
-Basically a multi-language library that makes different platform-specific functions and stuff cross-platform.
+# code_snippets
+Basically a bunch of functions and other platform-specific code that is made cross-platfrom. Also just useful code that doesn't really belong in any specific repo.
